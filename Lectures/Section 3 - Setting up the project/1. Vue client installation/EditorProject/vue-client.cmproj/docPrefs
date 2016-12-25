@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>DocPrefHorizontalScrollBarValue</key>
-	<string>0</string>
+	<string>138</string>
 	<key>DocPrefIsAssetPanelOpen</key>
 	<integer>1</integer>
 	<key>DocPrefIsCaptionEditorOpen</key>
@@ -15,11 +15,11 @@
 	<key>DocPrefMainSplitterValue</key>
 	<string>695.00000000000000000000</string>
 	<key>DocPrefPlayheadTime</key>
-	<string>865</string>
+	<string>2959</string>
 	<key>DocPrefPreviewAutoFit</key>
 	<integer>0</integer>
 	<key>DocPrefPreviewScaleValue</key>
-	<string>1.00000000000000000000</string>
+	<string>1.07060185185185186008</string>
 	<key>DocPrefTrackHeights</key>
 	<array>
 		<integer>48</integer>
